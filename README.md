@@ -13,6 +13,8 @@ This will run both the frontend and backend, to access frontend Open [http://loc
 
 ## Available Server Scripts
 
+In the src/server directory, you can run: 
+
 ## `node FillData`
 
 This will fill in data for the last 2 months including current day
